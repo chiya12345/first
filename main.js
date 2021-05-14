@@ -1,0 +1,16 @@
+var name = "Chitranshi";
+var surname = "Rathore";
+console.log(name);
+console.log(surname);
+var fullname = name.concat(surname);
+console.log(fullname);
+var number1 = 4;
+var number2 = 11;
+var number3 = 20;
+var number4 = 4;
+console.log(number1);
+console.log(number2);
+console.log(number3);
+console.log(number4);
+var total = number1 * number2 * number3 * number4;
+console.log(total);
